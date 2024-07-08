@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqUql7Q8xQrxQtklW/4LQ0S7Ing8n0T2DXLc2rPmNR81JnbK8ux+FmOaLHmRYYqNGyITxwHhrisxFKuTEsBC+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chandni\\source\\repos\\bansori\\bansori\\bansori.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chandni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Chandni\\.nuget\\packages\\zeroconf\\3.6.11\\zeroconf.3.6.11.nupkg.sha512"
+  ],
+  "logs": []
+}

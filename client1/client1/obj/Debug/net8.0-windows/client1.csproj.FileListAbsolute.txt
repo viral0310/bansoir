@@ -1,0 +1,16 @@
+C:\Users\Chandni\source\repos\client1\client1\bin\Debug\net8.0-windows\client1.exe
+C:\Users\Chandni\source\repos\client1\client1\bin\Debug\net8.0-windows\client1.deps.json
+C:\Users\Chandni\source\repos\client1\client1\bin\Debug\net8.0-windows\client1.runtimeconfig.json
+C:\Users\Chandni\source\repos\client1\client1\bin\Debug\net8.0-windows\client1.dll
+C:\Users\Chandni\source\repos\client1\client1\bin\Debug\net8.0-windows\client1.pdb
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.Form1.resources
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.csproj.GenerateResource.cache
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.AssemblyInfoInputs.cache
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.AssemblyInfo.cs
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.csproj.CoreCompileInputs.cache
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.dll
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\refint\client1.dll
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.pdb
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\client1.genruntimeconfig.cache
+C:\Users\Chandni\source\repos\client1\client1\obj\Debug\net8.0-windows\ref\client1.dll
